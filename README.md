@@ -6,4 +6,4 @@ Li, T., and Zhang, P. (2019). Self-falsifiable Hierarchical Detection of Overlap
 
 Please cite the above paper if you use this package. Thank you.
 
-If you have any questions, feel free to contact timothyli.pu@gmail.com
+If you have any questions, feel free to contact tianyil@mit.edu or timothyli.pu@gmail.com
